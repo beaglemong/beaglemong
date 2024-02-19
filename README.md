@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beaglemong
 - 👀 I’m interested in Deep Learning, Computer Vision, Facial Emotion Recognition
-- 🌱 I’m currently learning Emotion Recognition, Deep Learning, Computer Vision, Adversarial Attack/Defense
+- 🌱 I’m currently learning Facial Expression Recognition, Deep Learning, Computer Vision, Adversarial Attack/Defense
 - 📫 How to reach me: gimeejae@gmail.com
 
 <!---
